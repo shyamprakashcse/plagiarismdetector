@@ -1,0 +1,403 @@
+,Intern_ID,Intern_Name,Batch_No,Upload_Status
+0,900746,Ajay Vishnu M S,1,False
+1,900758,Arun E,1,False
+2,900778,Arun Kumar T,1,False
+3,900787,Asmithaa P M,1,False
+4,900761,Brindha S,1,False
+5,900773,Dasaprakash C,7,False
+6,900782,Divyadharshini S,1,False
+7,900790,Gathiravan G,1,False
+8,900750,Gokila T,1,False
+9,900788,Hrishi Kesav R,1,False
+10,900766,Jeevankarthick B,1,False
+11,900762,Lourdes Priyadharshini S,1,False
+12,900751,Muralidharan S,1,False
+13,900772,Pragadheesan K,2,False
+14,900765,Prakash T,1,False
+15,900777,Preetikka S,1,False
+16,900791,Rithika M,1,False
+17,900748,Ruthuvershon S,1,False
+18,900780,Sangavi S,1,False
+19,900749,Shankaranarayanan G,1,False
+20,900760,Sharne Moni D H,1,False
+21,900784,Shobigaa Sri R K,1,False
+22,900769,Sivashankar G,1,False
+23,900786,Sobika S,1,False
+24,900755,Sriram S P,1,False
+25,900770,Subha R,1,False
+26,900763,Subhika S,1,False
+27,900756,Sudharsan S,1,False
+28,900781,Sukirdha Priya T,1,False
+29,900774,Swathi R,1,False
+30,900764,Swetha B,1,False
+31,900783,Vijayasaradhi V R,1,False
+32,900779,Yuvaraj P,1,False
+33,900833,Anand Raj R,2,False
+34,900807,Aruna V R,2,False
+35,900795,Bhermal Adarsh Jain,2,False
+36,900809,Dandolu Sujitha,2,False
+37,900805,Deepthi Varsha E G,2,False
+38,900846,Dhanasekar T,2,False
+39,900803,Ganugapenta Nandi Vardhan,2,False
+40,900856,Gayathri V,3,False
+41,900813,Geethika K N,2,False
+42,900812,Govindu Hitesh Reddy,2,False
+43,900895,Jetti Nithin Reddy,3,False
+44,900884,Jeyadesh J,3,False
+45,900814,Kanchu Jyotsna,2,False
+46,900831,Kanthavelu G,2,False
+47,900830,Karthikeyan R,2,False
+48,900836,Keerthana P,2,False
+49,900823,Keerthi P,2,False
+50,900824,Marri Sri Sai,2,False
+51,900806,Mavuluru Nandini,2,False
+52,900804,Mohamed Aslam A,2,False
+53,900835,Mohamed Shafeeq A,2,False
+54,900842,Moneekha G,2,False
+55,900811,Movva Uday Venkata Sai Kumar,2,False
+56,900799,Nandhini R,2,False
+57,900793,Narenthra Baala D,8,False
+58,900872,Nethraa T,3,False
+59,900801,Nithya Shree V,2,False
+60,900843,Nithya Sree P B,2,False
+61,900797,Nivethitha A S,2,False
+62,900819,Pavitra E,2,False
+63,900810,Pradeep A K,2,False
+64,900820,Prajeshwar Varadharajan,2,False
+65,900828,Rachaveti Harshith,2,False
+66,900815,Ramya R,2,False
+67,900800,Reinita Thomas,2,False
+68,900891,Rishika R,3,False
+69,900840,Rithika R,2,False
+70,900808,Romy Ann V R,2,False
+71,900827,Sailahari Pothuri,2,False
+72,900883,Sandhiya M,3,False
+73,900881,Sandhiya T,3,False
+74,900844,Sangavi S,2,False
+75,900818,Senthil Kumar V,2,False
+76,900885,Senthil Kumaran K,3,False
+77,900822,Shyamala P,2,False
+78,900834,Solleti Keerthika,2,False
+79,900829,Sri Varshini R A,2,False
+80,900865,Subhashri K S,3,False
+81,900817,Syed Nawaz Hussain,2,False
+82,900886,Thrisha S,3,False
+83,900858,Venkata Sai Vidavaluru,6,False
+84,900871,Vijay K V J,3,False
+85,900887,Yogeshwari E,3,False
+86,900794,Suresh Venkatachalapathy,2,False
+87,900878,Anusuya V,3,False
+88,900892,Aswini M,3,False
+89,900860,Gokul Dhanasekaran,3,False
+90,900874,Hari Balaji V,3,False
+91,900857,Harshini T,3,False
+92,900876,Jeyasree P V,3,False
+93,900877,Kanakadurga J M,3,False
+94,900882,Keerthana C,3,False
+95,900867,Khavya P,3,False
+96,900870,Kirthick Raj S,3,False
+97,900893,Magesh M,3,False
+98,900869,Melbina M,3,False
+99,900859,Mohamed Alim S,3,False
+100,900863,Sangeetha V P,3,False
+101,900890,Subadhina J,3,False
+102,900889,Sushma Ramesh,3,False
+103,900866,Swetha G,3,False
+104,901041,Gowrimanohari S,6,False
+105,901044,Hariharan M,6,False
+106,901060,Kesavadevi T,6,False
+107,901021,Makesh S,6,False
+108,901020,Moulikrishnan S R,6,False
+109,901073,Pavithra M,6,False
+110,901030,Sanjuriya V,6,False
+111,901063,Selva Brindha K,6,False
+112,901050,Shaheen M,6,False
+113,901028,Vasanth Ananth,6,False
+114,901022,Vignesh M,6,False
+115,901024,Viknesh Sankaran,6,False
+116,900899,Abhinav Subramaniam,4,False
+117,900928,Bino J,4,False
+118,900932,Darshana C R,4,False
+119,900937,Gadamsetty Harikishan,4,False
+120,901162,Issac Shelton J,8,False
+121,900902,Karthik P,4,False
+122,900935,Kaviraj Y,4,False
+123,900911,Kavyashree Velmurugan,4,False
+124,900908,Krithika B,4,False
+125,900914,Pavithrah Manikandan,4,False
+126,900922,Pradeep K,4,False
+127,900927,Putta Sonu Rishwith,4,False
+128,900921,Sajeedha M,4,False
+129,900919,Sruthi S,4,False
+130,900903,Subashchandrabose S,4,False
+131,900929,Vishal Srikanth,4,False
+132,901005,Ulageswaran T,5,False
+133,901019,Allan Jacob,6,False
+134,901067,Joan Sharon N,6,False
+135,901061,Kolakaluru Mounisha,6,False
+136,901066,Noel Juliana Tabert Jones,6,False
+137,901068,Rajagopalan V G,6,False
+138,901037,Rajkumar R,6,False
+139,901011,Sanjeev S,6,False
+140,901053,Sruthi S,6,False
+141,901069,Sushanth Krishnamithran,6,False
+142,901048,Swetha V,6,False
+143,901027,Kirubashini M,6,False
+144,901034,LogeshKumar S,6,False
+145,901018,Neeraja S,6,False
+146,901026,Ranjani A V,6,False
+147,901035,Samitha R,6,False
+148,901057,Sivashankar T,6,False
+149,900907,Ganesh R,4,False
+150,900913,Kavya V G,4,False
+151,900930,Krishnareddigari Varshith Sai Ram Reddy,4,False
+152,900917,Narmatha K,4,False
+153,900920,Nithiyasri K M,4,False
+154,900945,Pothala Srikanth,8,False
+155,900924,Tumpati Sai Harsha,4,False
+156,901129,Anusha Ganesan,7,False
+157,901123,Gowtham S,7,False
+158,901082,Hariharan A G,7,False
+159,901101,Manojkumar Prakasam,7,False
+160,901096,Manya A,7,False
+161,901083,Nikhileshwari S,7,False
+162,901092,Ramkumar K,7,False
+163,900976, Anuvarshini K M,5,False
+164,901006, Arivignesh M,5,False
+165,901002, Aswinn L,5,False
+166,900965, Avanthika V T Y,5,False
+167,900967, Dhivesh D,5,False
+168,900955, Govarthan G,5,False
+169,901009, Harshini Thangavel,5,False
+170,900978, Jiviithesh U S,5,False
+171,901008, Paveethra K R,5,False
+172,901007, Praveen Kumar L,5,False
+173,900970, Sathya Moorthi V,5,False
+174,900987, Sowmiya Devi S,5,False
+175,900994, Syed Riyasudeen S,5,False
+176,901045,Bhava Dharani G,6,False
+177,901070,Divya A,6,False
+178,901029,Elango M,6,False
+179,901071,Hemalatha S,6,False
+180,901040,Jananiha Ramalingam,6,False
+181,901065,Jeevanantham R,6,False
+182,901039,Manju S,6,False
+183,901017,Mugilan K,6,False
+184,901013,Nandhini N,6,False
+185,901015,Naveen B,6,False
+186,901038,Pavithra R,6,False
+187,901058,Pranitha K,6,False
+188,901032,Rithikashree B,6,False
+189,901014,Sanjay G,6,False
+190,901012,Sneka E,6,False
+191,901064,Srinath S,6,False
+192,901046,Subhashini M,6,False
+193,901033,Sureka S,6,False
+194,901031,Suriya R,6,False
+195,901072,Trinaya S,6,False
+196,901043,Varshaa K K,6,False
+197,901016,Varunkumar B,6,False
+198,900954,Jeevanantham N,5,False
+199,900962,Pottli Tulsi Kumar Reddy,5,False
+200,900995,Ramya S,5,False
+201,900953,Survesh Hari S,5,False
+202,900980,Mohanappriya K,5,False
+203,900981,Neha Mohanan,5,False
+204,900991,Shri Janani M,5,False
+205,900988,Aishwarya Saravanan,5,False
+206,900961,Atshaya R,5,False
+207,900990,Durga Naga Sai Shriya R,5,False
+208,900958,Janani B,5,False
+209,900963,Komala P,5,False
+210,900979,Paveethra K,5,False
+211,900974,Pavithra P,5,False
+212,901001,Sachin Kumar Sahani,5,False
+213,901000,Santhosh Prabu P,5,False
+214,900966,Saranya P,5,False
+215,900971,Saranya V S,5,False
+216,900975,Selvaganesh R,5,False
+217,900999,Sudev G,5,False
+218,900977,Thanigai Arul R,5,False
+219,900969,Yashwanth M,5,False
+220,900989,Yukesh S,5,False
+221,900956,Amitkumar Sharma R,5,False
+222,900960,Gunaa Sri D,5,False
+223,900986,Harshath M,5,False
+224,900973,Sriranjani Badrinath,5,False
+225,900959,Sukesh S,5,False
+226,900957,Vijayaraja D,5,False
+227,901102,Munagala Sai Surya,7,False
+228,901077,Rajalakshmi H,7,False
+229,901110,Syed Sharukh,7,False
+230,901099,Pentakota Chanakya,7,False
+231,901052,Hemapriya N,6,False
+232,901054,Manasa K,6,False
+233,901047,Manohar Ramasamy,6,False
+234,901059,Rishi Vardhan A B,6,False
+235,901042,Rohith R,6,False
+236,901062,Subishek Suresh,6,False
+237,901107,Dhanush K R,7,False
+238,901108,Asodi Gowtham Reddy,7,False
+239,901087,Athulraj P,7,False
+240,901076,Bellam Lakshmi Chaitanya,7,False
+241,901111,Bhavana Reddy Nagireddy,7,False
+242,901122,Dinesh Kumar Raghunath,7,False
+243,901125,Divakar Chinnaswamy,7,False
+244,901089,Enniyan M,7,False
+245,901121,Goutam Indugu,7,False
+246,901117,Kakaraparti Rama Hareesh,7,False
+247,901084,Kotha Manideep,7,False
+248,901079,Manikandan J,7,False
+249,901093,Manikandan P,7,False
+250,901126,Mukila M,7,False
+251,901109,Nishant Ranjan,7,False
+252,901120,Pavan Kumar Nalluri,7,False
+253,901112,Poonguzhali R,7,False
+254,901088,Pradeep M,7,False
+255,901090,Pradesh B,7,False
+256,901118,Rishi Raj,7,False
+257,901081,Samara Simha Reddy V,7,False
+258,901104,Shaik Faizan Ahmed,7,False
+259,901116,Sree Gnaneesha Gondi,7,False
+260,901127,Subashini V,7,False
+261,901115,Veeri Venkata Hemanth Kumar,7,False
+262,901119,Vengamamba Kandavarapu,7,False
+263,901095,Manikandan R,7,False
+264,901085,Niraj T K K A,7,False
+265,901113,Sakthi Soundarya K,7,False
+266,901128,Teresa Angeline Mary A,7,False
+267,901124,Ashok M,7,False
+268,901100,Francis Selvaraj Pandian R,7,False
+269,901080,Muthulakshmi A,7,False
+270,901086,Preethi R,7,False
+271,901078,Raja Lakshmi M,7,False
+272,901148,Ashathulla J,8,False
+273,901161,Gayathri S,8,False
+274,901154,Jaya Vignesh S,8,False
+275,901149,Mani Bharathi R,8,False
+276,901140,Saran G,8,False
+277,901173,Sashanka Naga Sai Sunkara,8,False
+278,901153,Swetha R,8,False
+279,901152,Arun N,8,False
+280,901159,Mahiladevi Sadhasivam,8,False
+281,901155,Pavithran P,8,False
+282,901176,Raveena D,8,False
+283,901147,Sanjay Giri Karthikeyan,8,False
+284,901167,Shiva Keerthana R,8,False
+285,901169,Sri Krishnan P,8,False
+286,901133,Srikanth K,8,False
+287,901165,Srinithi A,8,False
+288,901164,Aswinkumar U,8,False
+289,901139,Harish Sriram S,8,False
+290,901135,Jayaprakash V,8,False
+291,901170,Kaliswaran Boominathan,8,False
+292,901146,Maheshwaran C V,8,False
+293,901134,Narmadha K,8,False
+294,901157,Nithish Kumar R,8,False
+295,901151,Pavin K,8,False
+296,901132,Shamini G,8,False
+297,901166,Smriti Mary D,8,False
+298,901156,Srinath Malolan M,8,False
+299,901141,Suneesh K S,8,False
+300,901137,Karthick Selvam V,8,False
+301,901138,Mohammed Ibrahim Y,8,False
+302,901130,Nandini D,8,False
+303,901172,Roshini P,8,False
+304,901174,Vimala P,8,False
+305,901144,Boggala Ajay,8,False
+306,901158,Kilari Vindhya,8,False
+307,901131,Madala Venakata Sowmya,8,False
+308,901168,Surya Prakash Machavarapu,8,False
+309,901175,Vemula Susmitha,8,False
+310,901145,Yashasvi Chowdary Ravipati,8,False
+311,901231,Santhosh Saravanan P,9,False
+312,901215,Gabu Siva Kumar Reddy,9,False
+313,901234,Mithil Jain,9,False
+314,901219,Samavedam Krishna Praneeth,9,False
+315,901229,Vijay Kumar,9,False
+316,901218,Balaji A,9,False
+317,901200,Gayathri R,9,False
+318,901205,Kantheti Krishna Manideep,9,False
+319,901226,Koppadi Devi Dhana Hari Priya,9,False
+320,901206,Preethi K,9,False
+321,901232,Rudra Mahesh Babu,9,False
+322,901184,Santhoshkumar K,9,False
+323,901204,Vignesh S,9,False
+324,901185,Vigneshwaran Suresh,9,False
+325,901242,Manikandan G,9,False
+326,901238,Nidharshnaa P,9,False
+327,901240,Sindhu R,9,False
+328,901189,Kalai Selvan T S,9,False
+329,901181,Lavanya G K,9,False
+330,901182,Mythili K,9,False
+331,901179,Nithya Shree Velayutham,9,False
+332,901187,Reethika Harikrishnan,9,False
+333,901243,Tharun Kumar P,9,False
+334,901190,Vinuppriya B,9,False
+335,901188,Guruprasanth M,9,False
+336,901177,Karthick V,9,False
+337,901220,Muthuabisheake S,9,False
+338,901207,Ranjith Lakshmanan P,9,False
+339,901222,Rishika M,9,False
+340,901223,Sandhiya K,9,False
+341,901202,Soundharya Mala V,9,False
+342,901199,Divyadharshini S A,9,False
+343,901217,Puzahnangai S,9,False
+344,901194,Gayathri V,9,False
+345,901196,Logesh S,9,False
+346,901195,Aarthy M,9,False
+347,901178,Gokul Krishna J,9,False
+348,901233,Gomathi Shruthy S,9,False
+349,901198,Mohamed Shaik Wasim M,9,False
+350,901203,Naagalakshmi S,9,False
+351,901191,Sharmila A,9,False
+352,901183,Soundarya R,9,False
+353,901180,Vasudevan K B,9,False
+354,901245,Zuki Sulthana N,9,False
+355,901221,Dhruvacharan Atmakuru,9,False
+356,901209,Kalavakuri Kishore,9,False
+357,901225,Mahalakshmi K,9,False
+358,901212,Naveen Babu Gummadidala,9,False
+359,901216,Paidi Sathish,9,False
+360,901237,Bharathi Prasad D V,9,False
+361,901192,Dinesh R,9,False
+362,901208,Hariharan M,9,False
+363,901211,Ameer Sulthan R,9,False
+364,901224,Aravind K V,9,False
+365,901227,Grace Rebecca Christopher,9,False
+366,901283,Aravind R,10,False
+367,901258,Kavinkumar G,10,False
+368,901290,Nithish Kumar N,10,False
+369,901285,Sandhiya Velu,10,False
+370,901272,Shaikh Firaas A,10,False
+371,901288,Hari Priya D,10,False
+372,901273,Thivya B,10,False
+373,901291,Abhilash Mokharampalli,10,False
+374,901259,Karanam Shiva Shankar,10,False
+375,901292,Karwan Vishweshwar,10,False
+376,901280,Manoj Kumar Bolisetty,10,False
+377,901257,Pandillapalle Rahul Reddy,10,False
+378,901274,Ramineni Jeswanth,10,False
+379,901297,Rapeti Choshmitha,10,False
+380,901282,Saladi Chandu Brahmaji,10,False
+381,901293,Saride Vinay Kumar,10,False
+382,901276,Sita Ram Ponnaganti,10,False
+383,901266,Ammala Kalpana,10,False
+384,901263,Battina Srivalli,10,False
+385,901269,Gudivada Vineetha,10,False
+386,901270,Hemarchit Acharyulu Voleti,10,False
+387,901262,Kolliboina Madhulika,10,False
+388,901256,Kommisetty Bhavya Sree,10,False
+389,901287,Malyala Sai Sravan,10,False
+390,901260,Manne Santhosh,10,False
+391,901281,Nikshitha Reddy V,10,False
+392,901289,Mrithula V,10,False
+393,901295,Akash Pathak,10,False
+394,901267,Rohan Pawar,10,False
+395,901284,Kolla Sai Naga Avinash,10,False
+396,901294,Valeti Sai Thanmai,10,False
+397,901286,Deepika A,10,False
+398,901278,Akhilesh J,10,False
+399,901261,Anmol Soni,10,False
+400,901268,Chandan K M,10,False
+401,900508,Saranya S,6,False

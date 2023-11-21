@@ -1,0 +1,22 @@
+# Web API Service Request
+fastapi 
+uvicorn 
+python-multipart 
+pydantic
+requests
+
+# Dataframes
+pandas 
+numpy  
+
+# config / passwords
+python-dotenv 
+
+# AWS 
+boto3 
+cloudpathlib 
+
+# Copy Detect 
+
+copydetect
+beautifulsoup4
